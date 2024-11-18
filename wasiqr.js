@@ -73,15 +73,15 @@ ______________________________________
 ║
 ║bot repo👇
 ║
-║⬡ *Queen_Maria:* _https://github.com/abbybots141/Queen_Maria_
+║⬡ *DEMONIC-CJ-V3:* _https://github.com/abbybots141/Queen_Maria_
 ║⬡ 
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *CHANNEL:* _https://whatsapp.com/channel/0029VahOucpCcW4s1Zk3O61A_
-║⬡ *GROUP:* _https://chat.whatsapp.com/Gd4JxOlgO6t4CKWunv8Adz_
+║⬡ *CHANNEL:* _https://whatsapp.com/channel/0029VajOKquG3R3pOUajb71j_
+║⬡ *GROUP:* _https://chat.whatsapp.com/ETr0guxf74I2WJMqLRxa03_
 ║
-║⬡ *©Copyright* _LØRD ÃBBY TËÇH_
+║⬡ *©Copyright* _CËËJÀY TËÇH_
 ╚══════════════════════════════════💀
 _____________________________________
 	
