@@ -60,20 +60,20 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_Pair Code Connected successfully*
-*_Made by LØRD ÃBBY TËÇH SÙPPØRT *
+*_Made by CËËJÀY TËÇH SÙPPØRT *
 ______________________________________
 ╔════👿
 ║  TO ALL MY SUPPORTERS:
 ║ _Thanks for you so much for supporting._
 ╚════════════════════════❤️
 ╔═════💀
-║  『••• Queen Maria👑 •••』
-║⬡ *owner:* _https://wa.me/2347032411938_
+║  『•••DEMONIC-CJ-V3•••』
+║⬡ *owner:* _https://wa.me/2348138621982_
 ║⬡ 
 ║
 ║bot repo👇
 ║
-║⬡ *DEMONIC-CJ-V3:* _https://github.com/abbybots141/Queen_Maria_
+║⬡ *DEMONIC-CJ-V3:* _https://github.com/CJ-LAP/DEMONIC--CJ-V3-_
 ║⬡ 
 ║
 ║⬡Support channels⬡
