@@ -58,28 +58,28 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected successfully*
-*_Made by LØRD ÃBBY TËÇH SÙPPØRT *
+*_Made by CËËJÀY TËÇH SÙPPØRT *
 ______________________________________
 ╔════👿
 ║  TO ALL MY SUPPORTERS:
 ║ _Thanks for you so much for supporting._
 ╚════════════════════════❤️
 ╔═════💀
-║  『••• Queen_Maria •••』
-║⬡ *owner:* _https://wa.me/2347032411938_
+║  『••• DEMONIC-CJ-V3 •••』
+║⬡ *owner:* _https://wa.me/2348138621982_
 ║⬡ 
 ║
 ║bot repo👇
 ║
-║⬡ *Queen_Maria:* _https://github.com/abbybots141/Queen_Mariw_
+║⬡ *DEMONIC-CJ-V3:* _https://github.com/abbybots141/Queen_Mariw_
 ║⬡ 
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *CHANNEL:* _https://whatsapp.com/channel/0029VahOucpCcW4s1Zk3O61A_
-║⬡ *GROUP:* _https://chat.whatsapp.com/Gd4JxOlgO6t4CKWunv8Adz_
+║⬡ *CHANNEL:* _https://whatsapp.com/channel/0029VajOKquG3R3pOUajb71j_
+║⬡ *GROUP:* _https://chat.whatsapp.com/ETr0guxf74I2WJMqLRxa03_
 ║
-║⬡ *©Copyright* _LØRD ÃBBY TËÇH SÙPPØRT_
+║⬡ *©Copyright* _CËËJÀY TËÇH SÙPPØRT_
 ╚══════════════════════════════════💀
 _____________________________________
 	
