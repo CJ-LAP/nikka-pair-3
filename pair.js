@@ -71,7 +71,7 @@ ______________________________________
 ║
 ║bot repo👇
 ║
-║⬡ *DEMONIC-CJ-V3:* _https://github.com/abbybots141/Queen_Mariw_
+║⬡ *DEMONIC-CJ-V3:* _https://github.com/CJ-LAP/DEMONIC--CJ-V3-_
 ║⬡ 
 ║
 ║⬡Support channels⬡
