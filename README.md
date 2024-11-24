@@ -27,7 +27,7 @@ Now Deploy
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Deploy+to+heroku...)](https://git.io/typing-svg)
 
     
-<a href='https://dashboard.heroku.com/new?template=https://github.com/abbybots141/nikka-pair-3'https://dashboard.heroku.com/new?template=https://github.com/CJ-LAP/nikka-pair-3' target="_blank"><img alt='DEPLOY' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/CJ-LAP/nikka-pair-3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+How+to+Deploy+on+Render..👇👇.)](https://git.io/typing-svg)
 
