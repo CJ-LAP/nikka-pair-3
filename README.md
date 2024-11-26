@@ -41,7 +41,7 @@ Now Deploy
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Deploy+on+Render+now..👇👇.)](https://git.io/typing-svg)
 
  
-<a href='https://dashboard.render.com/new?template=https://github.com/kingmalvn/malvin.session' target="_white"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-white?style=for-the-badge&logo=Render&logoColor=black'/>
+<a href='https://dashboard.render.com/new?template=https://github.com/CJ-LAP/nikka-pair-3' target="_white"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-white?style=for-the-badge&logo=Render&logoColor=black'/>
 
 
 
